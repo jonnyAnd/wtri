@@ -47,7 +47,7 @@ class WebServer extends sys.net.WebServer<WebServerClient> {
 		var host = 'localhost';
 		var port = 2000;
 		//var root = Sys.getCwd();
-		var root = "www";
+		var root = "./www";
 		var websocketHost : String;
 		var websocketPort : Int;
 		
