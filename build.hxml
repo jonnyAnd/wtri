@@ -14,4 +14,4 @@
 --next
 -cpp build
 #-D HXCPP_M64
--cmd mv build/WebServer ./wtri
+-cmd mv build/WebServer ../wtri-webserver
